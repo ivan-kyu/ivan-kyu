@@ -9,12 +9,14 @@
 
 ## Core Skills
 
-- 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Angular.js, Nuxt.js, Quasar
-- 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
-- 🌱 <b>Libraries</b> : TailwindCSS, Material UI, AntD, RSuite
-- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django
-- 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
+- 🤖 <b>AI & LLMs</b>: OpenAI (GPT-4, GPT-5), Claude, LangChain, LLMs, Local LLMs, RAG, Prompt Engineering, AI Agents, Agentic AI Development                   
+- 🎙️  <b>Voice AI</b>: Vapi.ai, TTS, Whisper, AI Voice Agents
+- ⚡ <b>Automation</b>: n8n, Make.com, Zapier, AI Workflow Automation, custom webhooks                                                                          
+- 👨‍💻 <b>Backend</b>: Node.js, NestJS, TypeScript, Python, REST APIs
+- 🔭 <b>Frontend</b>: Next.js, React, Tailwind CSS
+- 💬 <b>Database</b>: Supabase (PostgreSQL), MongoDB, SQL Server
+- ☁️  <b>Infra</b>: Vercel, Docker, Google Cloud, Azure API Management, Azure Key Vault, CI/CD
+- 🔧 <b>CRM & Tools</b>: GoHighLevel (GHL), HubSpot
 
 ## Languages & Tools
 
