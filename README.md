@@ -16,12 +16,10 @@
   - 🔭 <b>Frontend</b>: Next.js, React, Tailwind CSS                                                                                                                                                                       
   - 🗄️   <b>Database</b>: Supabase (PostgreSQL), MongoDB, SQL Server, Chroma, Redis
   - ☁️   <b>Infra</b>: Vercel, Docker, Google Cloud, Azure API Management, Azure Key Vault, CI/CD                                                                                                                           
-  - 🔧 <b>CRM & Tools</b>: GoHighLevel (GHL), HubSpot                                                                                                                                                                    
-                                                                                                                                                                                                                           
-  <br>                                                                                                                                                                                                                   
-                                                                                                                                                                                                                           
-  ## Featured Projects                                                                                                                                                                                                   
+  - 🔧 <b>CRM & Tools</b>: GoHighLevel (GHL), HubSpot          
 
+                     
+  ## Featured Projects                                                                                                                                                                                                   
   ### [RAG Explorer v2](https://github.com/ivan-kyu/rag-poc-v2)
   A full-stack RAG (Retrieval-Augmented Generation) learning project built with the modern Python AI stack. Upload documents, ask questions, and watch the entire pipeline execute live - with technique toggles to compare
    retrieval strategies.                                                                                                                                                                                                   
